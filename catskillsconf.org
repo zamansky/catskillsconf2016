@@ -1,3 +1,4 @@
+#+REVEAL_ROOT: .
 #+REVEAL_THEME: sky
 #+OPTIONS: toc:nil num:nil reveal_title_slide:nil
 
@@ -145,7 +146,7 @@ reveal .smaller {
 - Don't believe the hype
 - Think global act local
 - See me
-- Conact me
+- Contact me
   - @zamansky
   - zamansky@gmail.com
 
