@@ -20,6 +20,12 @@
 </ul>
 #+END_HTML
 
+* Who am I?
+
+#+attr_html:  :width 75%
+[[file:fred_flintstone.jpg]]
+
+
 * Gratuitous Tech skills gap slide
 
 #+attr_html:  :width 75%
