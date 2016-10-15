@@ -1,0 +1,153 @@
+#+REVEAL_THEME: sky
+#+OPTIONS: toc:nil num:nil reveal_title_slide:nil
+
+
+#+TITLE: Building a Tech Workforce in 30 minutes
+#+AUTHOR: Mike Zamansky\\ @zamansky
+#+DATE:   
+
+
+* 
+#+BEGIN_HTML
+<h2>Build a Tech Workforce in 30 minutes</h2>
+
+<ul>
+<li>Mike Zamansky</li>
+<li>@zamansky</li>
+<li>zamansky@gmail.com</li>
+<li>http://cestlaz.github.io</li>
+</ul>
+#+END_HTML
+
+* Gratuitous Tech skills gap slide
+
+#+attr_html:  :width 75%
+[[file:CSjobs.png]]
+
+* The knock on College
+#+begin_html
+<style type="text/css">
+.quad { width:300x%;height:250px;  }
+.reveal td {
+    vertical-align: top;
+}
+
+</style>
+
+<table>
+<tr>
+<td><img class="quad" src="perl.png"></td>
+<td><img class="quad" src="oldlanguage.jpg"></td>
+</tr>
+<tr valign="top">
+<td><img class="quad" src="theory.jpg"></td>
+<td valign="middle" >That's exactly <b>OUR</b> program's problem</td>
+</tr>
+</table>
+#+end_html
+
+
+* And  Code schools?
+#+begin_html
+<style type="text/css">
+reveal .smaller {
+ font-size:.4em;
+}
+</style>
+<table>
+<tr>
+<td>
+<ul style="font-size:.8em">
+<li >Compressed studying</li>
+<li>Shallow learning</li>
+<li>Training not educating</li>
+<li>limited quality control</li>
+</ul>
+</td>
+<td><img class="quad" src="bootcamp.jpg"></td>
+</tr>
+<tr>
+<td><img class="quad" src="bootcamp2.jpg"></td>
+<td>
+<b>We'll just retrain them for another $$$</b>
+</td>
+</tr>
+</table>
+#+end_html
+
+
+* How do we do it?
+#+ATTR_REVEAL: :frag (roll-in)
+- Build culture
+- Build community
+
+
+* Why Hunter? 
+#+ATTR_REVEAL: :frag (roll-in)
+- NYC has some great CS Ed
+- NYC has some really expensive CS Ed
+- We're not tapping our greatest resources
+- The NYC answer **MUST** be CUNY
+
+
+* What we're doing at Hunter
+#+ATTR_REVEAL: :frag (roll-in)
+- Filling in missing pieces of the CS Ed puzzle
+  #+ATTR_REVEAL: :frag (roll-in)
+  - workshops
+  - modified classes
+- Building Community
+  - Events
+- Partnering with the Tech Ecosystem
+  - workshops
+  - mock interviews
+  - events
+  - internships
+  - contract work
+
+* What can we do in the Hudson Valley
+#+ATTR_REVEAL: :frag (roll-in)
+- You can't spell community college without community
+
+[[file:hudson.jpg]]
+
+* Typical CC CS
+
+
+#+attr_html:  :width 80%
+| **Term 1**      | **Term 2**   |
+|-----------------+--------------|
+| CS 1            | CS 2         |
+| Calc 1          | Calc 2       |
+
+#+BEGIN_QUOTE
+
+#+END_QUOTE
+
+
+#+attr_html:  :width 80%
+| **Term 3**      | **Term 4**   |
+|-----------------+--------------|
+| Data Structures | Architecture |
+| Discrete        | Linear       |
+
+ 
+
+* What's needed to get started
+#+ATTR_REVEAL: :frag (roll-in)
+- CS 1
+- The other stuff
+- work opportunities
+
+* What you can do?
+#+ATTR_REVEAL: :frag (roll-in)
+- Company College partnerships
+- Don't believe the hype
+- Think global act local
+- See me
+- Conact me
+  - @zamansky
+  - zamansky@gmail.com
+
+
+
